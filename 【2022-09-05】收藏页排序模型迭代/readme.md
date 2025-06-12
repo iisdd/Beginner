@@ -9,9 +9,9 @@
 - 关键指标click_pv实验组相对提升6.65%，显著(p_value=8.7E-14)，collect_pv相对提升21.05%，显著(p_value=1.3E-19)
 - 实验符合转全条件，其他佐证指标也没有明显问题，计划推全
 
-<img src="./pic/res.png" alt="点击结论" width="500" /> <img src="./pic/collect res.png" alt="收藏结论" width="400" />
+<img src="./pic/res.png" alt="点击结论" width="500" />   <img src="./pic/collect res.png" alt="收藏结论" width="400" />
 
-<img src="./pic/click curve.png" alt="点击曲线" width="400" /><img src="./pic/collect curve.png" alt="收藏曲线" width="400" />
+<img src="./pic/click curve.png" alt="点击曲线" width="400" />   <img src="./pic/collect curve.png" alt="收藏曲线" width="400" />
 
 ## 样本
 - 场景：收藏页底部推荐
