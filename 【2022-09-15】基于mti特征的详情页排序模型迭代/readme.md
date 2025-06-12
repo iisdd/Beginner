@@ -13,7 +13,7 @@
 
 <img src="./pic/click res.png" alt="点击结论" width="500" />
 
-<img src="./pic/collect res.png" alt="收藏结论" width="500" />
+<img src="./pic/collect curve.png" alt="收藏结论" width="500" />
 
 ### 2.小流量(20%实验组(D)，80%对照组(B))
 - 实验组核心指标click_pv相对提升29.61%，显著，其他指标也均有显著提升
